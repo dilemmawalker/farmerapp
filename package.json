@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/dilemmawalker/farmerapp.git",
+  "homepage": "https://dilemmawalker.github.io/farmerapp",
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -16,6 +16,7 @@
     "axios": "^0.19.1",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
+    "gh-pages": "^3.1.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.8.9",
     "nexmo": "^2.5.3",
